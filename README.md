@@ -14,6 +14,7 @@ I'm Hakam Raves, a Data scientist and Data analyst with background in Applied Ec
 - KNIME
 - Microsoft Excel (Data Analysis)
 - Microsoft Power BI
+- Tableau
 - Looker Studio
 - SQL
 - Arduino Ide (C++)
