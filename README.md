@@ -1,54 +1,70 @@
 # Hi!
 
-I'm Hakam Raves, Data scientist with strong foundation in machine learning and analytics with 2 year of experience in Capital Market and After-sales. I have gained experience in all aspects of the data science pipeline, from data collection and preprocessing to machine learning modeling using Python and dashboard deployment, and I also have a strong foundation in Microsoft Excel especially for analytics. 
+I'm Hakam Raves, a Data Scientist with 2 years of experience applying data-driven solutions across capital markets and after-sales. I specialize in building end-to-end automation systems, from data collection and preprocessing to machine learning modeling and dashboard deployment using Python, with strong expertise in financial analytics and Microsoft Excel.
 
-Currently a final year student in applied economics and computer science, where I am applying data science solutions to Capital Market.
+Currently a final-year Master's student in Digital Economy (Applied Economics & Computer Science), focusing on applying data science solutions to Indonesia's capital markets.
 
-
-## Currently Working on
-- Capital Market data digitalization, developing automation solutions across investment operations and product marketing with solid understanding of mutual fund products (fixed income, equity, balanced) and asset management digitalization.
-- Freelance Coding Teacher that have a mission on build digital and computational thinking skills for elementary school to high school students in Indonesia.
-- Machine Learning, Data analytics and Econometrics approach on business project
-- Sports data analytics (Football, Basketball, Handball)
+## Currently Working On
+- **Capital Market Data Digitalization**: Developing automation solutions across investment operations and product marketing with solid understanding of mutual fund products (fixed income, equity, balanced) and asset management digitalization.
+- **Freelance Coding Instruction**: Teaching Python and Java programming to build digital literacy and computational thinking skills for students across Indonesia
+- **Machine Learning & Econometrics**: Applying ML, data analytics, and econometric approaches to finance and business problems
+- **Sports Analytics**: Personal projects in football, basketball, and handball data analysis
 
 ## Featured Projects
 
+### [IHSG Movement Direction Prediction Using Machine Learning](https://github.com/ravsssh/tesis-hakam)
+Built predictive models to forecast Indonesia Composite Index (IHSG) movement direction using machine learning approaches. Developed two complementary models: Model 1 utilizing macroeconomic indicators (inflation, interest rates, exchange rates, commodity prices) and Model 2 incorporating technical indicators and market sentiment data. Compared Random Forest and XGBoost performance with SHAP analysis for feature importance interpretation, identifying key economic drivers of market movements in Indonesian capital markets.
+
+**Technology / Tools:** Python, Pandas, NumPy, scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn, Time Series Analysis, Econometric Modeling
+
 ### [Telco Customer Churn Prediction](https://github.com/ravsssh/TelcoCustomerChurn)
-I created a model that predicts telecommunication customer churn using machine learning. This model, based on the Neural Network Cl, achieved 95% accuracy. I hope this model can support the efforts of hospitals in diagnosing lung cancer at an early stage, allowing for more effective treatment.
-Technology / Tools: Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, imbalanced-learn, Matplotlib, Seaborn, Plotly, SHAP.
+Developed an end-to-end machine learning solution to predict telecommunication customer churn. Achieved 93% recall with an optimized 0.2 threshold, prioritizing early identification of at-risk customers. Implemented advanced preprocessing including SMOTE-Tomek resampling to address class imbalance, with SHAP for model interpretability.
+
+**Technology / Tools:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, imbalanced-learn, Matplotlib, Seaborn, Plotly, SHAP
 
 ### [Amazon Product Review Sentiment Analysis](https://github.com/ravsssh/Amazon-Sentiment-Analysis)
-This project builds a three-class sentiment classifier for Amazon product reviews (positive, negative, and neutral) using modern NLP. The notebook covers data preparation, transformer fine-tuning with Keras/Transformers, evaluation, and inference on new text. 
-Technology / Tools: Python, Pandas, NumPy, Keras, Hugging Face Transformers.
+Built a three-class sentiment classifier for Amazon product reviews (positive, negative, neutral) using modern NLP and transformer models. Covers data preparation, transformer fine-tuning with Keras/Transformers, evaluation, and inference on new text.
+
+**Technology / Tools:** Python, Pandas, NumPy, Keras, Hugging Face Transformers
 
 ### [Heart Disease Prediction](https://github.com/ravsssh/HearthDisease)
-This project explores the UCI Heart Disease dataset to predict disease presence (target: num). It includes EDA, cleaning, visualizations, and classification modeling using clinical features like age, chest pain type, cholesterol, and ECG results. 
-Technology / Tools: Python, Jupyter, Pandas, NumPy, scikit-learn, Seaborn, Matplotlib, SciPy.
+Explored the UCI Heart Disease dataset to predict disease presence using clinical features like age, chest pain type, cholesterol, and ECG results. Includes comprehensive EDA, data cleaning, visualizations, and classification modeling.
+
+**Technology / Tools:** Python, Jupyter, Pandas, NumPy, scikit-learn, Seaborn, Matplotlib, SciPy
 
 ### [Sneakers Sales Clustering](https://github.com/ravsssh/SneakersClustering)
-This project applies unsupervised clustering to Nike and Adidas sneaker listings (data_nike_vs_addidas_unsupervised.csv) using features like listing price, sale price, discount, brand, rating, and review counts to uncover product segments and pricing/discount patterns. It includes interactive scatterplot outputs exported as HTML via HoloViz Panel 
-Technology / Tools: Python,  Pandas,  NumPy,  Seaborn,  Matplotlib,  DBSCAN, KMeansClustering, PCA.
+Applied unsupervised clustering to Nike and Adidas sneaker listings to uncover product segments and pricing/discount patterns. Features interactive scatterplot outputs exported as HTML via HoloViz Panel.
 
-### [German Handball League Season 2021-2022 Data Visualization with Streamlit](https://handballgerman2020datavisualization.streamlit.app/)
-Created web-based dashboard: Using streamlit that narrates how player shooting accuracy and attempts by club ranking. 
-Visualized tendencies: What shot type every club takes every 100 shots. Shown shooting accuracy and attempt sensitivity: Number of goals based on the machine learning model.
+**Technology / Tools:** Python, Pandas, NumPy, Seaborn, Matplotlib, DBSCAN, KMeans Clustering, PCA
 
-## Tools 
-- Python (Pandas, scikit-learn, TensorFlow, Streamlit, Matplotlib, Seaborn, Plotly)
-- KNIME
-- Microsoft Excel (Data Analysis)
-- Microsoft Power BI
-- Tableau
-- Looker Studio
-- SQL
-- Arduino Ide (C++)
+### [German Handball League 2021-2022 Data Visualization](https://handballgerman2020datavisualization.streamlit.app/)
+Created an interactive web-based dashboard using Streamlit that analyzes player shooting accuracy and attempts by club ranking. Visualizes shot type tendencies per 100 shots and displays shooting accuracy sensitivity based on machine learning predictions.
 
+**Technology / Tools:** Python, Streamlit, Pandas, Matplotlib, Seaborn
+
+## Professional Experience Highlights
+- **Fund Fact Sheet Automation**: Reduced production time from 5 working days to under 2 minutes
+- **Data Pipeline Development**: Built Python-based ETL pipelines for mutual fund reporting and investment data extraction
+- **Reporting Optimization**: Automated weekly reports for 12 Field Engineers at Pertamina Lubricants using Looker Studio, reducing manual workload by 50%
+- **After-Sales Analytics**: Implemented data analytics that achieved 40% reduction in SLA activity through workload optimization
+
+## Technical Skills
+**Programming Languages:** Python, R, SQL
+
+**Data Science & ML:** Pandas, NumPy, scikit-learn, TensorFlow, NLTK, SciPy, Statistical Modeling, Time Series Analysis, Forecasting
+
+**Deployment & Visualization:** Streamlit, Microsoft Excel, Looker Studio, Power BI, Tableau
+
+**Web Scraping & Automation:** BeautifulSoup, Selenium WebDriver
+
+**Other Tools:** Git/GitHub, Docker, Google BigQuery, Figma, Firebase
 
 ## Currently Learning
-- Artificial Intelligence
-- Digital Finance
-- Big Data Analytics 
+- Advanced Econometric Modeling for Capital Markets
+- Deep Learning for Financial Time Series
+- Big Data Analytics
 
 ## Let's Connect!
-- LinkedIn: [linkedin.com/in/hakamraves](#)
-- Email: [raves.hakam@gmail.com](mailto:raves.hakam@gmail.com)
+- **LinkedIn:** [linkedin.com/in/hakamraves](https://linkedin.com/in/hakamraves)
+- **Email:** [raves.hakam@gmail.com](mailto:raves.hakam@gmail.com)
+- **GitHub:** You're already here!
