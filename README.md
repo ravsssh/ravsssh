@@ -1,10 +1,12 @@
 # Hi!
 
-I'm Hakam Raves, a junior data scientist with 1 year of experience as a data analyst at an oil and gas company. I have gained experience in all aspects of the data science pipeline, from data collection and preprocessing to machine learning modeling using Python, and I also have a strong foundation in Microsoft Excel especially for analytics. 
+I'm Hakam Raves, Data scientist with strong foundation in machine learning and analytics with 2 year of experience in Capital Market and After-sales. I have gained experience in all aspects of the data science pipeline, from data collection and preprocessing to machine learning modeling using Python and dashboard deployment, and I also have a strong foundation in Microsoft Excel especially for analytics. 
 
-Successfully built and deployed machine learning models, including a sports analytics and other projects with Streamlit dashboard deployment. Currently a final-year double-degree master’s in applied economics and computer science, where I am interested in applying data science solutions to business and finance.
+Currently a final year student in applied economics and computer science, where I am applying data science solutions to Capital Market.
+
 
 ## Currently Working on
+- Capital Market data digitalization, developing automation solutions across investment operations and product marketing with solid understanding of mutual fund products (fixed income, equity, balanced) and asset management digitalization.
 - Freelance Coding Teacher that have a mission on build digital and computational thinking skills for elementary school to high school students in Indonesia.
 - Machine Learning, Data analytics and Econometrics approach on business project
 - Sports data analytics (Football, Basketball, Handball)
@@ -43,8 +45,6 @@ Visualized tendencies: What shot type every club takes every 100 shots. Shown sh
 
 
 ## Currently Learning
-- Deep Learning
-- Exploring computer vision applications in sports
 - Artificial Intelligence
 - Digital Finance
 - Big Data Analytics 
